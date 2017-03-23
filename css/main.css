@@ -99,7 +99,7 @@ button {
 }
 
 .project-thumbnail {
-	width: 650px;
+	width: 80%;
 	margin-bottom: 20px;
 	border-radius: 5px;
 }
@@ -155,6 +155,7 @@ button {
 	margin-bottom: 50px;
 	margin-top: 5px;
 	color: #ff1956;
+	line-height: 20px;
 }
 
 .my-pic {
@@ -293,14 +294,21 @@ button {
 		font-size: 25px;
 	}
 
+	.project-btn {
+		font-size: 12px;
+		margin: 5px 3px;
+		padding: 5px;
+	}
+
 	.moreinfo-p {
 		width: 100%;
 		font-size: 18px;
 		line-height: 30px;
 	}
 
-	.project-thumbnail {
-		width: 250px;
+	.modal-content {
+		width: 90%;
+		padding: 10px;
 	}
 
 	.btn-logo {
